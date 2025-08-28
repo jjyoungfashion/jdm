@@ -26164,7 +26164,24 @@
             "webtickets.co.za"
         ]
     },
-
+    {
+        "name": "PCB Master",
+        "url": "https://www.pcbmaster.com/help",
+        "difficulty": "hard",
+        "notes": "Log in and go to account settings to delete your account.",
+        "domains": [
+        "pcbmaster.com"
+        ]
+    },
+    {
+        "name": "Well Circuits",
+        "url": "https://www.wellcircuits.com/contact-2/",
+        "difficulty": "hard",
+        "notes": "Submit a request to delete your account and confirm through an email sent to you. Account deletions are processed within 48 hours of requesting.",
+        "domains": [
+        "wellcircuits.com"
+        ]
+    },
     {
         "name": "WEBTOON",
         "url": "https://www.webtoons.com/en/account/delete",
